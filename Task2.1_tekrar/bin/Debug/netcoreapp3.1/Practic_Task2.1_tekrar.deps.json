@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practic_Task2.1_tekrar/1.0.0": {
+        "runtime": {
+          "Practic_Task2.1_tekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practic_Task2.1_tekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
